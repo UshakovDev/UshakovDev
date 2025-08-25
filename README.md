@@ -20,7 +20,7 @@
 - 🐳 Использую **Docker** 
 - ⚡ Автоматизирую рутину  
 
-📫 [Telegram](@user_four) | [Email](mailto:ushako160696@gmail.com)  
+📫 [Telegram](https://telegram.me/user_four) | [Email](mailto:ushako160696@gmail.com)  
 
 ---
 
