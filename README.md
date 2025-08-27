@@ -31,7 +31,7 @@
 | [🍪 Ushakov Cookie](https://github.com/UshakovDev/ushakov.cookie) | Модуль согласия на cookie для 1С-Битрикс | PHP, Bitrix, JS |
 | [🤖 Anonymous Telegram Chatbot](https://github.com/UshakovDev/Anonymous-Telegram-chatbot) | Анонимный чат-бот с поиском собеседников | Python, Django, Redis, Celery |
 | [📺 YouTube Proxy](https://github.com/UshakovDev/youtube-proxy) | Прокси для обхода DPI и блокировок YouTube | Python, Networking |
-| [🌲 Django Tree Menu](https://github.com/UshakovDev/Tree_like_menu) | Древовидное меню для Django (без сторонних библиотек) | Python, Django |
+| [🎨 Queen Cosmo - Салон красоты](https://github.com/UshakovDev/Salon-website) | Веб-сайт салона красоты с полной автоматизацией и безопасностью | Django, Python, Docker |
 
 ---
 
