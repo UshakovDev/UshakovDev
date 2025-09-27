@@ -28,6 +28,7 @@
 
 | 📦 Проект | 🚀 Описание | 🛠️ Стек |
 |----------|-------------|----------|
+| [📱 Ushakov Telegram](https://github.com/UshakovDev/ushakov.telegram) | Модуль уведомлений в Telegram для 1С-Битрикс | PHP, Bitrix, Telegram Bot API |
 | [🍪 Ushakov Cookie](https://github.com/UshakovDev/ushakov.cookie) | Модуль согласия на cookie для 1С-Битрикс | PHP, Bitrix, JS |
 | [🤖 Anonymous Telegram Chatbot](https://github.com/UshakovDev/Anonymous-Telegram-chatbot) | Анонимный чат-бот с поиском собеседников | Python, Django, Redis, Celery |
 | [📺 YouTube Proxy](https://github.com/UshakovDev/youtube-proxy) | Прокси для обхода DPI и блокировок YouTube | Python, Networking |
